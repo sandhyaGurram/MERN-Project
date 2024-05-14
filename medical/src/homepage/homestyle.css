@@ -1,0 +1,107 @@
+.homepage .homeimg{
+    /* background-image: url(https://img.lovepik.com/photo/50078/5756.jpg_wh860.jpg); */
+    background-image: url(https://wallpaperaccess.com/full/624111.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+
+}
+
+.our-doctors .card{
+    padding: 20px;
+}
+.our-doctors h1{
+    text-transform: uppercase;
+}
+.our-doctors .card img{
+    height: 100px;
+    width: 100px;
+}
+.hompage-banner{
+    background-image: url(https://i.pinimg.com/originals/03/94/90/03949092b425fcd27a58c04260d457f1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+}
+
+.aboutus .about-text .row img{
+    width: 100%;
+    height: 100%;
+}
+.aboutus .about-text{
+    padding: 50px ;
+}
+
+.aboutus .about-text p{
+    text-align: justify;
+}
+
+.testimonial-list .card p{
+    text-align: justify;
+    padding: 10px;
+}
+.testimonial-list i{
+    color: red;
+}
+.testimonial-list .card-title{
+    color: rgb(16, 90, 140);
+}
+
+.doctor-treatment-details .booking{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.doctor-treatment-details .card{
+    border: none;
+    border-bottom: 2px solid rgb(16, 90, 140);
+}
+
+.doctor-treatment-details .appointment-text p{
+    padding: 10px;
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+    font-weight: 700;
+}
+.our-doctors a{
+    text-decoration: none;
+    color: black;
+}
+
+.home-testimonials{
+    background-color: rgb(216, 231, 242);
+}
+
+.appointment-text {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.home-testimonials i{
+    color: red;
+    font-size: 30px;
+}
+.home-testimonials .card-title{
+    color: rgb(16, 90, 140);
+}
+ .text-underline{
+    border: 1px solid rgb(16, 90, 140);
+    width: 100px;
+   
+    margin: auto;
+}
+.contactus .btn{
+    color: rgb(16, 90, 140);
+    font-weight: 700;
+    border: 2px solid rgb(16, 90, 140);
+}
+
+.contactus .btn:hover{
+    background-color: rgb(16, 90, 140);
+    color: white;
+}

@@ -1,0 +1,30 @@
+.sidenav ul li {
+    list-style: none;
+    padding: 10px;
+    margin-bottom: 10px;
+    /* background-color: rgb(4, 79, 83); */
+    background-color: rgb(16, 90, 140);
+    color: white;
+    
+}
+.sidenav ul li:hover{
+    background-color: darkcyan;
+    color: white;
+    font-weight: 700;
+}
+.sidenav a{
+    text-decoration: none;
+    color: white;
+}
+
+
+.sidenav{
+    padding-right: 20px;
+    border-right: 1px solid rgb(181, 176, 176);
+}
+.sidenav h3{
+    background-color: red;
+    color: white;
+    border-radius: 20px;
+    padding: 10px;
+}

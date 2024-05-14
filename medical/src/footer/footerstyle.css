@@ -1,0 +1,47 @@
+.footer ul li{
+    list-style: none;
+    padding:  10px 0px;
+}
+.footer{
+    background-image: url(https://cdn.wallpapersafari.com/18/27/CG7DXb.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 30px 50px;
+    color: white;
+   
+}
+.footer h6{
+    color: white;
+    font-weight: 700;
+}
+.footer .row p{
+    text-align: justify;
+    padding-left: 10px;
+}
+.bottom{
+    background-color: rgb(16, 90, 140);
+    color: white; 
+}
+.bottom p{
+    font-weight: 600;
+}
+.footer .text-start{
+    padding-left: 20px;
+}
+.footer .text-start ul li a{
+    text-decoration: none;
+    color: white;
+}
+.footer .text-start ul li a:hover{
+    font-weight: 700;
+}
+.footer .bi{
+
+    margin-bottom: 10px;
+    border: 2px solid white;
+    padding: 0px 10px;
+
+    color: white;
+    border-radius: 10px;
+   
+}

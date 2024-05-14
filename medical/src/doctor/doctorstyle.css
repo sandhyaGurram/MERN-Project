@@ -1,0 +1,23 @@
+.getdoctor button{
+    border: none;
+}
+.getdoctor th{
+    color: rgb(16, 90, 140);
+}
+.add-doctor{
+    border: 2px solid rgb(16, 90, 140);
+    padding: 20px;
+    border-radius: 20px;
+}
+.add-doctor .btn{
+    color: rgb(16, 90, 140);
+    border: 2px solid rgb(16, 90, 140);
+    font-weight: 700;
+}
+.add-doctor .btn:hover{
+    background-color: rgb(16, 90, 140);
+    color: white;
+}
+.add-doctor h3{
+    color: rgb(16, 90, 140);
+}

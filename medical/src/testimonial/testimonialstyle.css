@@ -1,0 +1,29 @@
+
+
+.testimonial{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+}
+.testimonial .col-md-6{
+    border: 2px solid rgb(16, 90, 140);
+    padding: 20px;
+    border-radius: 20px;
+}
+.testimonial .btn{
+    color: rgb(16, 90, 140);
+    border: 2px solid rgb(16, 90, 140);
+    font-weight: 700;
+}
+.testimonial .btn:hover{
+    background-color: rgb(16, 90, 140);
+    color: white;
+}
+.testimonial h3{
+    color: rgb(16, 90, 140);
+}
+
+.get-testimonials th{
+    color: rgb(16, 90, 140);
+}
